@@ -1,13 +1,3 @@
-/*
- * Projekt głowicy laserowej
- * 
- * Teensy 3.6 | Oprogramowanie modułu panelu sterowania
- * 
- * ostatnia modyfikacja 29.04.2020
- * 
- * wyk. Marcel Multan
- */
-
 #include <FlexCAN.h>
 #include <LiquidCrystal.h>
 
